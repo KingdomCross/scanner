@@ -5,3 +5,5 @@ The scanner is complete according to the specifications outlined on the project 
 3. Nice NFA/DFA printout with good documentation
 4. Class structure is made to allow further development
 5. Error handling (try/catch) for bad input
+
+Thanks to Professor Anthony Giacalone for the original projects for the assignment of CECS 444
