@@ -1,9 +1,12 @@
-The scanner is complete according to the specifications outlined on the project sheet. Three samples have been provided, along with screenshots of the GUI. Some highlights:
+User Instruction:
+Run the scanner and select docs/sample.txt
 
-1. Complete GUI input and output with file selection
-2. Added multi-line commenting for /*-based comments
-3. Nice NFA/DFA printout with good documentation
-4. Class structure is made to allow further development
-5. Error handling (try/catch) for bad input
+Programmer Problem:
+Could not solve how to put token
+    dcolon: ::
+into actiontable, lookuptable, and statetable.
 
-Thanks to Professor Anthony Giacalone for the original projects for the assignment of CECS 444
+Special Thanks:
+Thanks to Professor Anthony Giacalone for the original project; to work on the assignment of CECS 444.
+    https://github.com/agiacalone/scanner
+The assignment is to create nfa, dfa, and scanner.

@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
-# Anthony Giacalone
+# Alex Chheng
 # CECS 444
-# Full Scanner
 
 # import the tables
 from statetable import *
