@@ -2,7 +2,7 @@
 
 class rwords:
     # read in file/strip trailing and leading whitespace
-    rw_file = open('reservedWord.txt').read().strip(' ')
+    rw_file = open('rwords.txt').read().strip(' ')
 
     # Put the reserved words into an array, sorted by 'words'
     rw_array = []
